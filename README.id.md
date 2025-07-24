@@ -14,7 +14,7 @@
     <a href="https://www.facebook.com/farel.aditya.662124">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
     </a>
-    <a href="https://linkedin.com/in/gantilah-dengan-profil-linkedin-anda">
+    <a href="https://www.linkedin.com/in/farel-aditya-61b93126a/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
   </p>
