@@ -32,7 +32,7 @@
 - 👯 &nbsp; Saya ingin berkolaborasi dalam proyek open-source yang berhubungan dengan data science.
 - 🤔 &nbsp; Saya sedang mencari bantuan terkait teknik optimisasi performa tingkat lanjut.
 - 💬 &nbsp; Tanya saya tentang **JavaScript, Python, React, dan Node.js**.
-- 📫 &nbsp; Hubungi saya melalui: **[email.anda@example.com](mailto:email.anda@example.com)**
+- 📫 &nbsp; Hubungi saya melalui: **[fareladitya1811@gmail.com](mailto:fareladitya1811@gmail.com)**
 
 ---
 

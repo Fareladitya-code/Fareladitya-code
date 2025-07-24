@@ -32,7 +32,7 @@
 - 👯 &nbsp; I’m looking to collaborate on open-source projects related to data science.
 - 🤔 &nbsp; I’m looking for help with advanced performance optimization techniques.
 - 💬 &nbsp; Ask me about **JavaScript, Python, React, and Node.js**.
-- 📫 &nbsp; How to reach me: **[your.email@example.com](mailto:your.email@example.com)**
+- 📫 &nbsp; How to reach me: **[fareladitya1811@gmail.com](mailto:fareladitya1811@gmail.com)**
 
 ---
 
