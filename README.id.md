@@ -1,11 +1,11 @@
 <div id="header" align="center">
   <img src="https://github.com/Fareladitya-code.png" width="100" style="border-radius:50%"/>
   <h1>
-    Hi there, I'm Farel Aditya
+    Halo, saya Farel Aditya
     <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
   </h1>
   <p>
-    I'm a Full-Stack Developer from Indonesia 🇮🇩, driven by the challenge of architecting digital experiences that are both powerful and intuitive. I specialize in turning ambitious ideas into high-performance web applications, one line of elegant code at a time.
+    Saya seorang Full-Stack Developer dari Indonesia 🇮🇩, yang terdorong oleh tantangan untuk merancang pengalaman digital yang kuat sekaligus intuitif. Saya berspesialisasi dalam mengubah ide-ide ambisius menjadi aplikasi web berkinerja tinggi, baris demi baris kode yang elegan.
   </p>
   <p align="center">
     <a href="https://www.instagram.com/farel_dit/">
@@ -19,24 +19,24 @@
     </a>
   </p>
   <p align="center">
-    <a href="README.id.md"><img src="https://img.shields.io/badge/Baca%20dalam-Bahasa%20Indonesia-red?style=for-the-badge" alt="Baca dalam Bahasa Indonesia"/></a>
+    <a href="README.md"><img src="https://img.shields.io/badge/Read%20in-English-blue?style=for-the-badge" alt="Read in English"/></a>
   </p>
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Tentang Saya
 
-- 🔭 &nbsp; I’m currently working on a challenging e-commerce platform.
-- 🌱 &nbsp; I’m currently learning **Cloud Architecture (AWS)** and **Microservices**.
-- 👯 &nbsp; I’m looking to collaborate on open-source projects related to data science.
-- 🤔 &nbsp; I’m looking for help with advanced performance optimization techniques.
-- 💬 &nbsp; Ask me about **JavaScript, Python, React, and Node.js**.
-- 📫 &nbsp; How to reach me: **[your.email@example.com](mailto:your.email@example.com)**
+- 🔭 &nbsp; Saat ini saya sedang mengerjakan platform e-commerce yang menantang.
+- 🌱 &nbsp; Saat ini saya sedang mempelajari **Arsitektur Cloud (AWS)** dan **Microservices**.
+- 👯 &nbsp; Saya ingin berkolaborasi dalam proyek open-source yang berhubungan dengan data science.
+- 🤔 &nbsp; Saya sedang mencari bantuan terkait teknik optimisasi performa tingkat lanjut.
+- 💬 &nbsp; Tanya saya tentang **JavaScript, Python, React, dan Node.js**.
+- 📫 &nbsp; Hubungi saya melalui: **[email.anda@example.com](mailto:email.anda@example.com)**
 
 ---
 
-### 🛠 Languages and Tools
+### 🛠 Bahasa & Alat
 
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -51,7 +51,7 @@
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 Statistik GitHub Saya
 
 <p align="center">
   <a href="https://github.com/Fareladitya-code">
